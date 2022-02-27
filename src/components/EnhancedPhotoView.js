@@ -1,7 +1,7 @@
 import data from '../siteData.json';
 import { useParams } from 'react-router-dom';
 import {LandingLink} from './Links';
-import '../css/App.css';
+import '../css/Photography.css';
 import PhotoDetails from './PhotoDetails';
 
 const EnhancedPhotoView = () => {
@@ -23,7 +23,7 @@ const EnhancedPhotoView = () => {
                 <h1>{LandingLink}</h1>
             </div>
             <div className="enhanced-view-container">
-                <img src={path} alt={title} ></img>  
+                <img className="ehnanced-image" src={path} alt={title} ></img>  
             </div>
             <div className="enhanced-view-container">
                 <PhotoDetails details={details}/>

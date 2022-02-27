@@ -22,3 +22,22 @@
     display: flex;
     justify-content: center;
 }
+
+.ehnanced-image {
+    width: 90%;
+}
+
+.img-gallery {
+    transition: all 0.5s;
+    border: solid 2px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+}
+
+.img-gallery:hover {
+    filter: blur(0px);
+    opacity: 1;
+    box-shadow: 0 8px 20px 0px rgba(0, 0, 0, 0.767);
+    transform: scale(1.02);
+    transition: all 0.5s;
+    
+}
