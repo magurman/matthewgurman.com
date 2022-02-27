@@ -1,5 +1,4 @@
-import '../css/Photo.css'
-import PhotoDetails from './EnhancedPhotoView'
+import '../css/Photography.css'
 import { Link } from "react-router-dom";
 
 const Photo = (picture) => {
