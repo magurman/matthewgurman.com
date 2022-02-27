@@ -1,0 +1,24 @@
+.photography-parent {
+
+    padding: 25px 50px 75px; 
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.photography-child {
+    padding: 12px;
+    margin: 5px;
+    flex: 1 0 21%;  /*grow | shrink | basis */
+    height: auto;
+    width: 100%;
+
+}
+
+.enhanced-view-container {
+    display: flex;
+    justify-content: center;
+}

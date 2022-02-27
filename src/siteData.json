@@ -1,0 +1,371 @@
+{
+    "books": [
+        "Brave New World - Aldous Huxley",
+        "1984 - George Orwell",
+        "Kite Runner - Khaled Hosseini",
+        "A Thousand Splendid Suns - Khaled Hosseini"
+    ],
+    "music": [
+        {
+            "songs": [
+                "How Much A Dollar Cost?",
+                "Momma",
+                "Wormhole"
+            ]
+        },
+        {
+            "albums": [
+                "To Pimp A Butterfly",
+                "Hi, This Is Flume",
+                "Lonerism"
+            ]
+        }
+    ],
+    "podcasts":[
+        "Joe Rogan David Choe",
+        "Lex Fridman Daniel Schmactenberger"
+    ],
+    "questions": [
+        "Can we have world peace with a for-profit arms industry?",
+        "Does this dress make me look fat?",
+        "Why did the chicken cross the road?"
+    ],
+    "thoughts": [
+        "free information",
+        ""
+    ],
+    "landing": "My name is Matthew Gurman. I'm currently a backend engineer at {SeedFiLink}. My favorite {CuisineLink} is Mexican. I love music that makes me feel strong emotions. I like to shoot film {PhotographyLink} as a hobby. Oh, and I love to ask {QuestionsLink} and {ThinkDeeplyLink} about things interest me. Please make yourself comfortable, and don't hesitate to reach out via email or text!",
+    "pictures" : {
+        "horizontal" : {
+            "width": 512,
+            "height": 337
+        },
+        "vertical": {
+            "width": 384,
+            "height": 577
+        },
+        "pictures":[
+            {
+                "filename":"aaron-ace-ollie.jpeg",
+                "description" : "h",
+                "date" : "3/2/2020",
+                "active": "true",
+                "location": "The Village of Indian Hill, Ohio",
+                "title": "aaron-ace-ollie",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"bald-eagle.jpeg",
+                "description" : "A bald eagle",
+                "date" : "7/1/2021",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "bald-eagle",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"bemidji-sunset.jpeg",
+                "description" : "h",
+                "date" : "8/21/2020",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "turtle-river-sunset",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"binoculars.jpeg",
+                "description" : "h",
+                "date" : "6/30/2021",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "binoculars",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"cigar-smoke.jpeg",
+                "description" : "puff lah",
+                "date" : "7/2/2021",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "cigar-smoke",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"classic-coke.jpeg",
+                "description" : "h",
+                "date" : "8/1/2019",
+                "active": "true",
+                "location": "Sa Pa, Vietnam",
+                "title": "classic-coke",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"el-cap.jpeg",
+                "description" : "h",
+                "date" : "5/28/2021",
+                "active": "true",
+                "location": "Yosemite, California",
+                "title": "el-cap",
+                "width":384,
+                "height":577
+            },
+            {
+                "filename":"desert-friends.jpeg",
+                "description" : "h",
+                "date" : "7/15/2019",
+                "active": "true",
+                "location": "Masada, Israel",
+                "title": "desert-friends",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"good-morning.jpeg",
+                "description" : "h",
+                "date" : "3/1/2020",
+                "active": "true",
+                "location": "The Village of Indian Hill, Ohio",
+                "title": "good-morning",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"half-dome.jpeg",
+                "description" : "h",
+                "date" : "5/28/2021",
+                "active": "true",
+                "location": "Yosemite, California",
+                "title": "half-dome",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"hoian-street-food.jpeg",
+                "description" : "h",
+                "date" : "8/6/2019",
+                "active": "true",
+                "location": "Hoi An, Vietnam",
+                "title": "hoian-street-food",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"hoian-suit.jpeg",
+                "description" : "h",
+                "date" : "8/5/2019",
+                "active": "true",
+                "location": "Hoi An, Vietnam",
+                "title": "hoian-suit",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"negev-desert.jpeg",
+                "description" : "h",
+                "date" : "7/15/2019",
+                "active": "true",
+                "location": "Negev, Israel",
+                "title": "negev-desert",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"israel-friends.jpeg",
+                "description" : "h",
+                "date" : "7/15/2019",
+                "active": "true",
+                "location": "Negev, Israel",
+                "title": "israel-friends",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"clouds-rest.jpeg",
+                "description" : "h",
+                "date" : "5/28/2021",
+                "active": "true",
+                "location": "Yosemite, California",
+                "title": "clouds-rest",
+                "width":384,
+                "height":577
+            },
+            {
+                "filename":"wisdom.jpeg",
+                "description" : "h",
+                "date" : "5/16/2020",
+                "active": "true",
+                "location": "Negev, Israel",
+                "title": "wisdom",
+                "width":384,
+                "height":577
+            },
+            {
+                "filename":"jetski.jpeg",
+                "description" : "h",
+                "date" : "8/21/2020",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "jetski",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"laughter.jpeg",
+                "description" : "h",
+                "date" : "8/20/2020",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "laughter",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"big-smile.jpeg",
+                "description" : "h",
+                "date" : "8/20/2020",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "big-smile",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"oliver.jpeg",
+                "description" : "Hi Ollie",
+                "date" : "6/30/2021",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "oliver",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"painting-ocean.jpeg",
+                "description" : "h",
+                "date" : "5/22/2021",
+                "active": "true",
+                "location": "Half Moon Bay, California",
+                "title": "painting-ocean",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"pink-flowers.jpeg",
+                "description" : "h",
+                "date" : "3/30/2020",
+                "active": "true",
+                "location": "Norwalk, Connecticut",
+                "title": "pink-flowers",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"faith.jpeg",
+                "description" : "h",
+                "date" : "7/16/2019",
+                "active": "true",
+                "location": "Jerusalem, Israel",
+                "title": "faith",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"reflections.jpeg",
+                "description" : "h",
+                "date" : "3/30/2020",
+                "active": "true",
+                "location": "Weston, Connecticut",
+                "title": "reflections",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"rose.jpeg",
+                "description" : "h",
+                "date" : "8/20/2020",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "rose",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"sapa-kids.jpeg",
+                "description" : "h",
+                "date" : "7/31/2019",
+                "active": "true",
+                "location": "Sa Pa, Vietnam",
+                "title": "sapa-kids",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"spices.jpeg",
+                "description" : "h",
+                "date" : "7/14/2019",
+                "active": "true",
+                "location": "Jerusalem, Israel",
+                "title": "spices",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"sunrise.jpeg",
+                "description" : "h",
+                "date" : "7/15/2019",
+                "active": "true",
+                "location": "Masada, Israel",
+                "title": "sunrise",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"thai-beach-kids.jpeg",
+                "description" : "h",
+                "date" : "7/22/2019",
+                "active": "true",
+                "location": "Phuket, Thailand",
+                "title": "thai-beach-kids",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"tire-tracks.jpeg",
+                "description" : "h",
+                "date" : "8/20/2020",
+                "active": "true",
+                "location": "Bemidji, Minnessota",
+                "title": "tire-tracks",
+                "width":512,
+                "height":337
+            },
+            {
+                "filename":"yosemite-valley-sunrise.jpeg",
+                "description" : "h",
+                "date" : "5/29/2021",
+                "active": "true",
+                "location": "Yosemite, California",
+                "title": "yosemite-valley-sunrise",
+                "width":384,
+                "height":577
+            },
+            {
+                "filename":"yosemite-valley.jpeg",
+                "description" : "h",
+                "date" : "5/30/2021",
+                "active": "true",
+                "location": "Yosemite, California",
+                "title": "yosemite-valley",
+                "width":512,
+                "height":337
+            }
+        ]
+    }
+    
+}
