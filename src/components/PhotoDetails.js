@@ -1,8 +1,6 @@
 
 const PhotoDetails = (details) => {
 
-    console.log("details: " + details.details.title)
-    console.log("details json: " + JSON.stringify(details))
 
     const title = details.details.title;
     const date = details.details.date;
