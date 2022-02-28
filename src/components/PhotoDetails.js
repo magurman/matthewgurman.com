@@ -9,9 +9,19 @@ const PhotoDetails = (details) => {
 
     return (
         <div>
-            <h1>{title}</h1>
-            <h2>{date}</h2>
-            <h3>{description}</h3>
+            <div className="details-container">
+                <div>
+                    <h5>{"title: " + title}</h5>
+                </div>
+                <div>
+                    <h5>{"Date: " + date}</h5>
+                </div>
+            </div>
+            <div className="description">
+                 <div className="description-container">
+                    <p>{description}</p>
+                 </div>
+            </div>
         </div>
         
     );

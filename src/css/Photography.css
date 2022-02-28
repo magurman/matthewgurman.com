@@ -18,6 +18,18 @@
 
 }
 
+.enhanced-view {
+    text-align: center;
+    background-color: #282c34;
+    min-height: 100vh;
+    /* display: flex;
+    flex-direction: column; */
+    /* align-items: center;
+    justify-content: center; */
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
 .enhanced-view-container {
     display: flex;
     justify-content: center;
@@ -25,6 +37,7 @@
 
 .ehnanced-image {
     width: 90%;
+    max-width: max-content;
 }
 
 .img-gallery {
@@ -40,4 +53,28 @@
     transform: scale(1.02);
     transition: all 0.5s;
     
+}
+
+.details-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+}
+
+.description-container {
+    max-width: 90%;
+
+}
+
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
 }

@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 const Photo = (picture) => {
     picture = picture.picture;
 
-    const path = "/images/" + picture.filename;
+    const filename = picture.filename;
+    const path = "/images/" + filename;
     const date = picture.date
     const title= picture.title;
     const description = picture.description;
@@ -18,7 +19,7 @@ const Photo = (picture) => {
 
     return (
         <div>
-            <Link to={"/photography/" + title}>
+            <Link to={"/photography/" + filename}>
                 <img className="img-gallery" src={path} alt={title} style={imgStyles}></img>
             </Link>
             
