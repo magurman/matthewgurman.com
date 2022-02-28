@@ -8,7 +8,7 @@ class Photography extends Component {
 
     constructor(props) {
         super(props);
-        this.pics = data.pictures.pictures.sort((p1, p2) => Date.parse(p2.date) - Date.parse(p1.date));
+        this.pics = data.pictures.pictures.filter((p => p.active === 'true')).sort((p1, p2) => Date.parse(p2.date) - Date.parse(p1.date));
     }    
 
     render() {
