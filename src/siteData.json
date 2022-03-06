@@ -24,7 +24,8 @@
     "podcasts":[
         "Joe Rogan David Choe",
         "Joe Rogan Anthony Bourdain",
-        "Lex Fridman Daniel Schmactenberger"
+        "Lex Fridman Daniel Schmactenberger",
+        "Exponent Technilogical Revolutions"
     ],
     "questions": [
         {
@@ -32,12 +33,8 @@
             "thoughts" : "thoughts"
         },
         {
-            "question" : "Does this dress make me look fat?",
-            "thoughts" : "thoughts"
-        },
-        {
-            "question" : "Why did the chicken cross the road?",
-            "thoughts" : "thoughts"
+            "question": "Are blockchains a revolutionary technology or a technological revolution?",
+            "thoughts": "thoughts"
         }
     ],
     "thoughts": [
