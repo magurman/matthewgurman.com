@@ -14,14 +14,13 @@ const EnhancedPhotoView = () => {
     let details = {
         "title": title,
         "date": pic.date,
+        "location": pic.location,
         "description": pic.description
     }
 
     return (
-        <div className="enhanced-view">
-            <div className="enhanced-view-container">
-                <h1>{LandingLink}</h1>
-            </div>
+        <div>
+            <div className="enhanced-view">
             <div className="enhanced-view-container">
                 <img className="ehnanced-image" src={path} alt={title} ></img>  
             </div>
@@ -29,6 +28,8 @@ const EnhancedPhotoView = () => {
                 <PhotoDetails details={details}/>
             </div>
         </div>
+        </div>
+        
         
  
     );

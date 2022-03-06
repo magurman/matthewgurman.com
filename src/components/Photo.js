@@ -22,7 +22,6 @@ const Photo = (picture) => {
             <Link to={"/photography/" + filename}>
                 <img className="img-gallery" src={path} alt={title} style={imgStyles}></img>
             </Link>
-            
         </div>    
     );
   }

@@ -3,6 +3,7 @@ import { Component } from "react";
 import {LandingLink} from './Links'
 
 import data from '../siteData.json'
+import InProgress from "./InProgress";
 
 
 class Books extends Component {
@@ -14,22 +15,7 @@ class Books extends Component {
 
     render() {
         return(
-            <div className="App">
-    
-                <h1>{LandingLink}</h1>
-
-                {
-                    this.books.map(function (book) {
-            
-                        return (
-                            <div>
-                                <p>{book}</p>
-                            </div>
-                        );
-                    })
-                }
-
-            </div>
+            <InProgress/>
         );
     }
 

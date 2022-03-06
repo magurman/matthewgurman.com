@@ -1,7 +1,6 @@
 import { Component } from "react";
 
-import {LandingLink} from './Links'
-
+import InProgress from './InProgress'
 
 
 class Music extends Component {
@@ -12,18 +11,10 @@ class Music extends Component {
 
     render() {
         return(
-            <div className="App">
-    
-                <h1>{LandingLink}</h1>
-
-                <p>Music!</p>
-
-            </div>
+            <InProgress/>
         );
     }
     
 }
-
-
 
 export default Music;

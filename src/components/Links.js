@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const QuestionsLink = <Link to="/questions"> questions</Link>
 const LandingLink = <Link to="/"> Home</Link>
-const PhotographyLink = <Link to="/photography"> photography</Link>
+const PhotographyLink = <Link to="/photography"> film photography</Link>
 const ThinkDeeplyLink = <Link to="/thoughts"> think deeply</Link>
 const CuisineLink = <Link to="/cuisine"> cuisine</Link>
 const MusicLink = <Link to="/music"> music </Link>

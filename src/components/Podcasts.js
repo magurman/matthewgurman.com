@@ -1,6 +1,6 @@
 import { Component } from "react";
 
-import {LandingLink} from './Links'
+import InProgress from './InProgress'
 import data from '../siteData.json'
 
 
@@ -13,22 +13,7 @@ class Podcasts extends Component {
 
     render() {
         return(
-            <div className="App">
-    
-                <h1>{LandingLink}</h1>
-
-                {
-                    this.podcasts.map(function (podcast) {
-            
-                        return (
-                            <div>
-                                <p>{podcast}</p>
-                            </div>
-                        );
-                    })
-                }
-
-            </div>
+            <InProgress/>
         );
     }
 

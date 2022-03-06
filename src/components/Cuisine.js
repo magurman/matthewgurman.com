@@ -2,6 +2,7 @@ import { Component } from "react";
 
 import {LandingLink} from './Links'
 import data from '../siteData.json' 
+import InProgress from "./InProgress";
 
 
 class Cuisine extends Component {
@@ -12,13 +13,7 @@ class Cuisine extends Component {
 
     render() {
         return(
-            <div className="App">
-    
-                <h1>{LandingLink}</h1>
-
-                <p>Cuisine!</p>
-
-            </div>
+            <InProgress/>
         );
     }
     

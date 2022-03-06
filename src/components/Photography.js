@@ -13,13 +13,9 @@ class Photography extends Component {
 
     render() {
         return(
-            <div className="App">
-
-                <h1>{LandingLink}</h1>
-
-                <p>These pictures are all pretty special to me. I love film because each shot counts, and on top 
-                    of that I'm usually only taking film pictures on a vacation or during a fun activity with friends and family.
-                    Each one has a story behind it, and you can click on each one to learn more about that story.</p>
+            <div>
+                <p className="photography-p">{data.pictures.message.p1}</p>
+                <p className="photography-p">{data.pictures.message.p2}</p>
 
                 <div className="photography-parent">
                     {
